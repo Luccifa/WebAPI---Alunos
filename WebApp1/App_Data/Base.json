@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "nome": "Ana Clara",
+    "sobrenome": "Lucci",
+    "telefone": "999809037",
+    "data":  "2001-10",
+    "ra": 12345
+  },
+  {
+    "id": 3,
+    "nome": "Ana Paula",
+    "sobrenome": "Lucci",
+    "telefone": "999809037",
+    "data": "2002-10",
+    "ra": 12345
+  },
+  {
+    "id": 4,
+    "nome": "Marta",
+    "sobrenome": "Lucci",
+    "telefone": "999809037",
+    "data": "2002-10",
+    "ra": 12345
+  }
+]

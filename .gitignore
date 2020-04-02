@@ -1,0 +1,5 @@
+bin
+obj
+.vscode
+.vs
+SQLQuery1.sql
